@@ -1,5 +1,5 @@
 # 💫 About Me:
-helo i'm Kevian!!😊<br><br>I’m a front-end developer focused on building responsive web applications with React. <br>Always learning new technologies and improving my development skills.<br><br>what I'm currently doing:<br>• Building projects with React<br>• Learning TypeScript<br>• Improving responsive UI/UX design<br>• Preparing to get into backend development!<br><br><br>
+helo i'm Kevian!!😊<br><br>I’m a front-end developer focused on building responsive web applications with React. <br>Always learning new technologies and improving my development skills.<br><br>what I'm currently doing:<br>  • Building projects with React<br>  • Learning TypeScript<br>  • Improving responsive UI/UX design<br>  • Preparing to get into backend development!<br><br><br>
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@ helo i'm Kevian!!😊<br><br>I’m a front-end developer focused on building res
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kevianchirchir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
