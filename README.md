@@ -1,6 +1,6 @@
 # 💫 About Me:
-helo i'm Kevian!!😊<br><br>I’m a front-end developer focused on building responsive web applications with React. <br>Always learning new technologies and improving my development skills.<br><br>what I'm currently doing:<br>  • Building projects with React<br>  • Learning TypeScript<br>  • Improving responsive UI/UX design<br>  • Preparing to get into backend development!<br><br><br>
-
+helo i'm Kevian!!😊<br><br>I’m a front-end developer focused on building responsive web applications with React. <br>Always learning new technologies and improving my development skills.<br><br>what I'm currently doing:<br>  • Building projects with React<br>  • Learning TypeScript<br>  • Improving responsive UI/UX design<br>  • Preparing to get into/include backend techh!<br><br><br>
+t
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kevianlol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevian-chirchir-06a583300) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kevianlol) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@imkevian) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevianchirchirbiz@gmail.com) 
